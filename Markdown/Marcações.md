@@ -70,14 +70,14 @@ function my_function(numero) {
 ```
 
 ## Imagem Locais do Repositório
-###Python
+### Python
 ![Python](python.jpeg "Logo Python")
-###MySQL
+### MySQL
 ![MySQL](mysql.jpg)
 
 ## Imagem da WEB
-###Google
+### Google
 ![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Google_logo_%282010-2013%29.svg/2560px-Google_logo_%282010-2013%29.svg.png)
 
-###Facebook
+### Facebook
 ![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1280px-Facebook_New_Logo_%282015%29.svg.png)
